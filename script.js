@@ -18,7 +18,6 @@ const imageUrls = [
   'img15.jpg',
   'img16.jpg',
   'img17.jpg',
-  'img18.jpg',
   'img19.png',
   'img20.png',
   'img21.png',
