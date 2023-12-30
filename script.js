@@ -28,8 +28,7 @@ const imageUrls = [
 ];
 
 const wishes = [
-  "My Dearest Jyothsna, Happy Birthday, my love! 🎉 As the sun rises on this special day, my heart is bursting with joy. From that day we met on the train in January to now, every moment with you has been a treasure. Your smile is my sunshine, brightening even the gloomiest days. The way you accepted my love in October filled my heart with warmth, and since then, life has been a beautiful journey with you. Approaching your birthday, I'm so excited! I want to make today as extraordinary for you as you've made every day for me. Your hesitancy to express love, it only makes me admire the kindness in your heart even more. The term 'baby' that you call me is like a sweet melody, a constant reminder of our love story. Your short hair, framing your face, adds to your charm. You are my muse, my living masterpiece. Remember the 'Naked Truths' game? It brought us closer, revealing our true selves. Your vulnerability and honesty deepened our connection, laying the foundation for the love we share now. On your birthday, I wish you endless laughter, boundless joy, and all the things that make you happy. May the love you've given me come back to you in abundance. Happy Birthday, my love. Here's to the beautiful memories we've made and the countless ones ahead. With each passing day, my love for you grows, and I feel blessed to have you by my side."
-];
+  "Madhu happy birthday Madhu 🎂,..enjoy the day , manchi memories create chesko , asale new year tho puttav..year motham needhe inka..baaga enjoy cheyyu , chesina cheykapoina , party mathram gattiga undaali 🎉🥳,.. andhariki thanks cheppatam aipoyaka , neeku unna busy schedule lo kodhiga time ee page ki istava ane anukuntna .."];
 
 function calculateImageSize() {
   const screenWidth = document.documentElement.clientWidth;
